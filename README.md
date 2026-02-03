@@ -40,10 +40,9 @@ This project focuses on answering the following business questions:
 - Interactive Excel dashboard with slicers  
 - Clear visualization of sales trends and customer insights  
 
-📸 *Dashboard screenshot is included in the repository*
 ## 📸 Dashboard Screenshot
 
-![Vrinda Store Dashboard](Screenshot 2026-02-03 231137.png.png)
+![Vrinda Store Dashboard](Screenshot 2026-02-03 231137.png)
 
 ---
 
