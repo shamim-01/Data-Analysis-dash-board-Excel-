@@ -43,7 +43,7 @@ This project focuses on answering the following business questions:
 
 ## 📸 Dashboard Screenshot
 
-![Vrinda Store Dashboard](Screenshot 2026-02-03 231137.png)
+![Vrinda Store Dashboard](dashboard.png)
 
 ---
 
