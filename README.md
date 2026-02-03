@@ -8,7 +8,8 @@ The Vrinda Store wanted to create an **annual sales report for 2022** to underst
 
 ## 📂 Dataset Used  
 - Sales dataset of Vrinda Store (2022)  
-- Includes order details, customer demographics, sales amount, order status, product category, and sales channels  
+- Includes order details, customer demographics, sales amount, order status, product category, and sales channels
+- <a href="https://github.com/shamim-01/Data-Analysis-dash-board-Excel-/blob/main/Annual%20store%202022.xlsx">Dataset</a>
 
 ---
 
